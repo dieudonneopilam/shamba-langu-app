@@ -41,7 +41,7 @@ class _LoginPageState extends State<LoginPage> {
                     child: Text(
                       'connectez-vous',
                       style: TextStyle(
-                          fontSize: 20,
+                          fontSize: 25,
                           color: Colors.red,
                           fontWeight: FontWeight.normal),
                     ),
